@@ -2,16 +2,18 @@
 
 # Kurulum Talimatları
 
-1)Yeşil code butonuna tıklayınız
+1) Yeşil code butonuna tıklayınız
 
-2)Dowload zip ile dosyayı indiriniz
+2) Dowload zip ile dosyayı indiriniz
 
-3)Dosyayı arşivden cıkarınız
+3) Dosyayı arşivden cıkarınız
 
-4)Terminal açın ve 42header-master-main dizine gidiniz
+4) Terminal açın ve 42header-master-main dizine gidiniz
 
-5)zsh kur.sh  yazıp enterlayın
+5) zsh kur.sh  yazıp enterlayın
 
-6)vim editörünü acınız ve esc tusuna basınız
+6) vim editörünü acınız ve esc tusuna basınız
 
-7):Baslik  yazıp enterlayın
+7) :Baslik  yazıp enterlayın
+
+8) ahmetmertk0 ınstagram hesabını takıp edın
