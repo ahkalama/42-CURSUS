@@ -2,7 +2,7 @@
 
 # Kurulum Talimatları
 
-1)Yeşil code butonuna tıklayınız
+1)Bir Önceki Sayfada Sağ Üstteki Yeşil code butonuna tıklayınız
 
 2)Dowload zip ile dosyayı indiriniz
 
