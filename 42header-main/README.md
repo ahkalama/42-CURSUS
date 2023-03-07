@@ -15,3 +15,5 @@
 6)vim editörünü acınız ve esc tusuna basınız
 
 7):Baslik  yazıp enterlayın
+
+8)ahmetmertk0 Instagramdan Ulasabilirsiniz.
