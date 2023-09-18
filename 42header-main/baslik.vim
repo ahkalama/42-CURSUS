@@ -13,7 +13,7 @@ let s:end		= '*/'
 let s:fill		= '*'
 let s:length	= 80
 let s:margin	= 5
-aklı olan kurmaz bu headerisdfsdfsdsdfsdfsd
+
 let s:types		= {
 			\'\.c$\|\.h$\|\.cc$\|\.hh$\|\.cpp$\|\.hpp$\|\.php':
 			\['/*', '*/', '*'],
